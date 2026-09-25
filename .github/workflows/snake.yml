@@ -1,4 +1,4 @@
-snake = '''name: Generate Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -31,8 +31,3 @@ jobs:
           publish_branch: output
           publish_dir: ./dist
           commit_message: "chore: regenerate snake animation"
-'''
-
-with open("/mnt/agents/output/snake.yml", "w", encoding="utf-8") as f:
-    f.write(snake)
-print("ok")
