@@ -138,7 +138,7 @@ $ status: GRINDING_MODE=ON ⚡
 <!-- ══════════════════════ SOCIAL ══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ff2d95,100:00f0ff&height=2&section=header" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="26"/> `> ping --establish_connection`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="26"/> `Links Externos`
 
 <div align="center">
 
