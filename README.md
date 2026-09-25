@@ -127,7 +127,7 @@ $ status: GRINDING_MODE=ON ⚡
 <!-- ══════════════════════ SNAKE ══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f0ff,100:ff2d95&height=2&section=header" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="26"/> `> run snake.exe --consume=contributions`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="26"/> `Snake Game`
 
 <div align="center">
 
