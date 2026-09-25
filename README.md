@@ -1,141 +1,250 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+INICIALIZANDO+SISTEMA_...;%3E+CARREGANDO+M%C3%93DULOS...;%3E+IDENTIDADE%3A+PAULO+FERREIRA+DE+LIMA+FILHO;%3E+FUN%C3%87%C3%83O%3A+SOFTWARE+ENGINEER+%5BEM+CONSTRU%C3%87%C3%83O%5D;%3E+STACK%3A+REACT.JS+%2B+FASTAPI+%2B+PYTHON;%3E+MODO+CYBERPUNK%3A+ATIVADO+%E2%9A%A1" alt="Boot sequence"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:00D9FF&height=190&section=header&text=Paulo%20Ferreira&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=57&descSize=18"/>
 
-# 🤖 PIRATA2040.SYS
-
-### ⚡ Paulo Ferreira de Lima Filho — Engenheiro de Software em formação
-
-`> Estudante de Engenharia de Software @ UnB | Técnico em Informática @ IFG`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Engenharia+de+Software+%40+UnB;Desenvolvimento+Full+Stack;React+%7C+Next.js+%7C+Python+%7C+FastAPI;Transformando+ideias+em+software+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/SISTEMA-ONLINE-00f0ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FOCO-FULL_STACK-ff2d95?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/BASE-GAMA--DF%2C%20BRASIL-9d00ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Pirata2040&label=VISITAS+AO+PERFIL&color=6e40c9&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🪪 `> whoami`
+## 👨‍💻 Sobre mim
 
-Olá, visitante! Sou o **Paulo**, estudante de Engenharia de Software e desenvolvedor full stack em formação. 🚀
-
-- 🎓 Bacharelado em **Engenharia de Software** @ [UnB](https://www.unb.br) — previsão de conclusão: **12/2028**
-- 🛠️ **Técnico em Informática** @ [IFG](https://www.ifg.edu.br) — concluído em **2023**
-- ⚛️ Desenvolvimento de aplicações web com **React.js + FastAPI**
-- 🐍 Desenvolvimento backend com **Python**
-- 🗳️ Experiência como técnico de urnas eleitorais no **TRE-GO**
-- 🤖 IA como ferramenta de apoio para desenvolvimento e aprendizagem
-- 🎯 Em busca de **estágio em Engenharia de Software**
-
----
-
-## 💻 `> tech_stack --list`
-
-### Linguagens & Frameworks
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,python,fastapi,mysql&theme=dark" alt="Tech Stack"/>
-
-</div>
-
-### Ferramentas & Ambiente
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark" alt="Ferramentas"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=f7df1e&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=F05032&labelColor=0d1117"/>
-
-</div>
-
----
-
-## 📂 `> ls ~/projetos --featured`
-
-### 🚗 Projeto Livre — Orientação a Objetos
-Sistema desenvolvido em Python para cadastro, consulta e anúncio de veículos.
-
-🔗 [Acessar Projeto_Livre_OO](https://github.com/Pirata2040/Projeto_Livre_OO)
-
-### 📊 Avalia
-Projeto desenvolvido no contexto da disciplina de Métodos de Desenvolvimento de Software da UnB.
-
-🔗 [Acessar Avalia](https://github.com/unb-mds/Avalia)
-
-<details>
-<summary><b>⚡ Ver mais repositórios no radar...</b></summary>
-
-<br>
-
-### 🛰️ Projeto P.I.T.E.R
-🔗 [Acessar repositório](https://github.com/unb-mds/Projeto-P.I.T.E.R)
-
-### 🏫 i-Educar — Testes 2026
-🔗 [Acessar repositório](https://github.com/Pirata2040/i-educar_Testes_2026)
-
-### ⚙️ Compiladores
-🔗 [Acessar repositório](https://github.com/Pirata2040/COMPILADORES1)
-
-</details>
-
----
-
-## 🖥️ `> cat objetivos_2027.txt`
-
-```bash
-$ ./boot.sh --mode=future
-
-┌─[root@pirata2040]─[~/objetivos]
-└──╼ $ cat 2027.conf
-
- ▸ [░░░░░░░░░░] Conquistar estágio em Engenharia de Software
- ▸ [██████░░░░] Dominar ecossistema React
- ▸ [██████░░░░] Desenvolver APIs REST robustas com FastAPI
- ▸ [████░░░░░░] Contribuir com projetos Open Source
- ▸ [██░░░░░░░░] Evoluir em Docker, Cloud e CI/CD
- ▸ [░░░░░░░░░░] Conquistar primeira certificação em Cloud
-
-$ status: GRINDING_MODE=ON ⚡
+```typescript
+const paulo = {
+    nome: "Paulo Ferreira de Lima Filho",
+    formação: "Engenharia de Software — Universidade de Brasília",
+    formaçãoTecnica: "Técnico em Informática — IF Goiano",
+    foco: ["Desenvolvimento Full Stack", "Engenharia de Software"],
+    interesses: [
+        "Desenvolvimento Web",
+        "APIs",
+        "Arquitetura de Software",
+        "Requisitos de Software",
+        "Inteligência Artificial"
+    ],
+    objetivo: "Evoluir constantemente como desenvolvedor 🚀"
+};
 ```
 
+Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)** e formado como **Técnico em Informática pelo [Instituto Federal Goiano — IF Goiano](https://ifgoiano.edu.br/)**.
+
+Tenho interesse principalmente em **desenvolvimento Full Stack**, construção de aplicações web, APIs, Engenharia de Requisitos e uso de tecnologias modernas para solucionar problemas reais.
+
+Atualmente, venho desenvolvendo projetos acadêmicos e práticos que envolvem desde **levantamento e documentação de requisitos** até aplicações com **React, Next.js, TypeScript, Python e FastAPI**.
+
 ---
 
-## 📊 `> system_monitor --analytics`
+## ⚡ Tecnologias & Ferramentas
+
+### 💻 Linguagens
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pirata2040&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2d95&text_color=c9d1d9"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css&theme=dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pirata2040&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9"/>
+</div>
 
-<br><br>
+### 🚀 Frontend & Backend
 
-<img height="175" src="https://streak-stats.demolab.com?user=Pirata2040&theme=radical&hide_border=true&background=0d1117&ring=00f0ff&fire=ff2d95&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+<div align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs&theme=dark"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pirata2040&bg_color=0d1117&color=00f0ff&line=ff2d95&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+### 🗄️ Dados & Desenvolvimento
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,linux,vscode,figma,postman&theme=dark"/>
 
 </div>
 
 ---
 
-## 🐍 `> contribution_snake`
+# 🚀 Projetos em destaque
+
+Aqui estão alguns dos projetos que representam melhor minha trajetória e evolução em Engenharia de Software.
+
+---
+
+## 🛰️ P.I.T.E.R
+
+### Plataforma de Integração e Transparência em Educação e Recursos
+
+<div align="center">
+
+<a href="https://github.com/unb-mds/Projeto-P.I.T.E.R">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=unb-mds&repo=Projeto-P.I.T.E.R&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+Plataforma desenvolvida para **buscar e analisar diários oficiais municipais**, com foco na identificação de investimentos públicos relacionados a **tecnologia, educação e robótica**.
+
+O projeto possui funcionalidades como dashboards, comparação entre municípios, análise de investimentos e recursos de Inteligência Artificial.
+
+**Tecnologias utilizadas:**
+
+`Next.js` `React` `TypeScript` `TailwindCSS` `Python` `FastAPI` `Docker` `Gemini API`
+
+🔗 **[Acessar repositório](https://github.com/unb-mds/Projeto-P.I.T.E.R)**
+
+🔗 **[Acessar documentação](https://unb-mds.github.io/Projeto-P.I.T.E.R/)**
+
+---
+
+## 🌱 Rede Cafuringa
+
+### Engenharia de Requisitos — Projeto em desenvolvimento
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
+
+<a href="https://github.com/mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsreq-fga-unb&repo=REQ-2026.2-T02-RedeCafuringa&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+Projeto desenvolvido na disciplina de **Requisitos de Software da Universidade de Brasília**.
+
+A proposta envolve o estudo e desenvolvimento de requisitos para a **Rede Cafuringa**, trabalhando atividades como:
+
+- Levantamento e análise de requisitos;
+- Requisitos Funcionais e Não Funcionais;
+- Objetivos estratégicos;
+- Cenários e perfis de usuários;
+- Critérios verificáveis;
+- Rastreabilidade;
+- Priorização;
+- Processo de desenvolvimento;
+- Documentação utilizando GitHub Pages.
+
+O projeto utiliza uma **abordagem híbrida**, com estudo e aplicação de conceitos relacionados ao processo **AUP — Agile Unified Process**.
+
+🔗 **[Acessar repositório](https://github.com/mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa)**
+
+🔗 **[Acessar GitHub Pages](https://mdsreq-fga-unb.github.io/REQ-2026.2-T02-RedeCafuringa/)**
+
+---
+
+## 🚗 Projeto Livre — Orientação a Objetos
+
+<div align="center">
+
+<a href="https://github.com/Pirata2040/Projeto_Livre_OO">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Pirata2040&repo=Projeto_Livre_OO&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+Projeto desenvolvido para aplicar conceitos fundamentais de **Programação Orientada a Objetos**, organização de código, classes, métodos e modelagem de entidades.
+
+Uma das experiências importantes na construção da minha base em desenvolvimento de software.
+
+🔗 **[Acessar repositório](https://github.com/Pirata2040/Projeto_Livre_OO)**
+
+---
+
+## ⚙️ Compiladores — Grupo 8
+
+<div align="center">
+
+<a href="https://github.com/twChronous/COMPILADORES-GRUPO8">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=twChronous&repo=COMPILADORES-GRUPO8&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+Projeto acadêmico da disciplina de **Compiladores**, desenvolvido em equipe na Universidade de Brasília.
+
+O projeto trabalha conceitos relacionados à construção e funcionamento de compiladores, além da utilização de **Git, GitHub, branches, documentação e GitHub Pages** no desenvolvimento colaborativo.
+
+🔗 **[Acessar repositório](https://github.com/twChronous/COMPILADORES-GRUPO8)**
+
+---
+
+# 🎓 Formação & trajetória
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Universidade de Brasília
+
+**Engenharia de Software**
+
+Faculdade do Gama — FGA/UnB
+
+Principais áreas de interesse:
+
+- Desenvolvimento de Software
+- Engenharia de Requisitos
+- Arquitetura de Software
+- Desenvolvimento Web
+- Métodos de Desenvolvimento
+- Compiladores
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Instituto Federal Goiano
+
+**Técnico em Informática**
+
+Formação técnica voltada para os fundamentos da computação e desenvolvimento de software.
+
+Essa formação foi uma das bases para minha trajetória na área de tecnologia.
+
+🔗 [Conhecer o IF Goiano](https://ifgoiano.edu.br/)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub em números
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pirata2040&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pirata2040&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Pirata2040&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Minha atividade
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pirata2040&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Commits em movimento
 
 <div align="center">
 
@@ -149,7 +258,7 @@ $ status: GRINDING_MODE=ON ⚡
     srcset="https://raw.githubusercontent.com/Pirata2040/Pirata2040/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub Contribution Snake"
+    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/Pirata2040/Pirata2040/output/github-contribution-grid-snake.svg"
   />
 </picture>
@@ -158,38 +267,41 @@ $ status: GRINDING_MODE=ON ⚡
 
 ---
 
-## 📡 `> links --external`
+# 🎯 Próximos passos
 
-<div align="center">
-
-<a href="https://linkedin.com/in/paulo-ferreira-de-lima-filho-137473224">
-<img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>
-
-<a href="mailto:paulofpnt@gmail.com">
-<img src="https://img.shields.io/badge/-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
-
-<a href="https://github.com/Pirata2040">
-<img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
-
-</div>
+```text
+🚀 Evoluir no desenvolvimento Full Stack
+⚛️ Aprofundar conhecimentos em React e Next.js
+🐍 Criar APIs cada vez mais robustas com Python e FastAPI
+🐳 Evoluir meus conhecimentos em Docker
+☁️ Aprender mais sobre Cloud e CI/CD
+🧠 Explorar aplicações de Inteligência Artificial
+🌎 Contribuir cada vez mais com projetos Open Source
+💼 Construir experiência profissional em Engenharia de Software
+```
 
 ---
 
+# 🤝 Vamos construir algo?
+
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║       "O futuro não se espera. Ele se compila." ⚡          ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=Pirata2040&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+Desenvolvimento de software é um processo contínuo de aprender, construir, errar, melhorar e tentar novamente.
 
 <br><br>
 
-**⚡ SYSTEM.STATUS: ONLINE | BUILD.VERSION: 4.0 | © 2026 Paulo Ferreira de Lima Filho**
+<a href="https://github.com/Pirata2040">
+<img src="https://img.shields.io/badge/GitHub-Pirata2040-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 💡 Sempre aprendendo. Sempre construindo.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=BF91F3&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat.;Software+is+never+finished.;There+is+always+something+new+to+learn."/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6E40C9,100:0D1117&height=120&section=footer"/>
